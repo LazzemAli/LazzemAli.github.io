@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to ali lazzm page
 
-You can use the [editor on GitHub](https://github.com/LazzemAli/LazzemAli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ali
 
-### Markdown
+wala akbar 8achecha ken fibeli wala le nta3b rou7i
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+sbe7 kemil na3mil fil js bich mba3af ki nji nhabat fih 
 
-```markdown
-Syntax highlighted code block
+y9olou dra chnowa ou mey5dimch mehouch mawjoud 
 
-# Header 1
-## Header 2
-### Header 3
+titmanyik 3liya heda l7al itheni page 3adiya
 
-- Bulleted
-- List
+mefiha chay mehech bich tjib barcha ++
 
-1. Numbered
-2. List
+ema 5ir min 7atya +
 
-**Bold** and _Italic_ and `Code` text
+kenik wsilt lihne ou 9rit heda lkol 
 
-[Link](url) and ![Image](src)
-```
+ya3tik issa7a ema nitmana nkoun fadi ch8ol kifik
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h1>    wala dolm ema a3rfou brk ili 3malt js ema me5dimch   <h1>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LazzemAli/LazzemAli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+si7it 7ozn
+
+
+
+
+
+
+
+# page
+## pagee
+### pageee
